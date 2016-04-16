@@ -1,0 +1,8 @@
+Install pandas,numpy and scikit-learn packages
+
+Extract both test and train to the directory where the script is
+
+Run: 
+python <script>.py 
+
+My main solution is paribas_trees_n_forests.py, hence run that first. Accuracy is printed at last (in fraction)
